@@ -4,6 +4,7 @@ import android.graphics.Bitmap;
 import android.location.Location;
 
 public class Post {
+
     private String message;
 
     private Location location;
